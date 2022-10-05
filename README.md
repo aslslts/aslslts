@@ -52,10 +52,9 @@
 <hr>
   <h2 align="center">🚀 Technologies I'll learn in 2022 🚀</h2>
   <div align="center">
-      GraphQL, 
-      TypeScript,
-      Vite,
-      React Native
+      JavaScript, 
+      React,
+      Vite
   </div>
   <br>
 <hr>
