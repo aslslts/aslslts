@@ -66,22 +66,22 @@
   <p align=center>
     <div align=center>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=eyupucmaz&theme=radical&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+        <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=aslslts&theme=radical&border=61dafb&hide_border=true" alt="zumrudu-anka" />
       </a>
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=eyupucmaz&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
+        <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=aslslts&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
       </a>
     </div>
     <br><br><br><br><br><br><br><br><br><br><br>
     <div align=center>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyupucmaz&layout=compact&show_icons=true&theme=radical" />
+        <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslslts&layout=compact&show_icons=true&theme=radical" />
       </a>
     </div>
     <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=eyupucmaz&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
+    <img src="https://activity-graph.herokuapp.com/graph?username=aslslts&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
   </p>
 
   <hr>
 
-![](https://komarev.com/ghpvc/?username=eyupucmaz&color=dc143c)
+![](https://komarev.com/ghpvc/?username=aslslts&color=dc143c)
