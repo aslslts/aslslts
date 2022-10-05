@@ -37,17 +37,17 @@
   <h2 align="center">🚀 Languages & Frameworks & Tools & Abilities 🚀</h2>
   <br>
   <p align="center">
-    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/43a42ae9ebd7d3a31714aee4598dbe523b1b1f4d/javascript.svg"></code>
+    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/javascript.svg"></code>
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/problemSolving.png"></code>
-    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/43a42ae9ebd7d3a31714aee4598dbe523b1b1f4d/html5.svg"></code>
-    <code><img title="CSS3" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/43a42ae9ebd7d3a31714aee4598dbe523b1b1f4d/css.svg"></code>
-    <code><img title="React" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/43a42ae9ebd7d3a31714aee4598dbe523b1b1f4d/react-original.svg"></code>
-    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/43a42ae9ebd7d3a31714aee4598dbe523b1b1f4d/git-original.svg"></code>
+    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/html5.svg"></code>
+    <code><img title="CSS3" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/css.svg"></code>
+    <code><img title="React" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/react-original.svg"></code>
+    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/git-original.svg"></code>
     <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/vscode.png"></code>
     <code><img title="Firebase" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/firebase.png"></code>
-    <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/43a42ae9ebd7d3a31714aee4598dbe523b1b1f4d/json.svg"></code>
-    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/43a42ae9ebd7d3a31714aee4598dbe523b1b1f4d/github.svg"></code>
-    <code><img title="npm" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/43a42ae9ebd7d3a31714aee4598dbe523b1b1f4d/npm.svg"></code>
+    <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/json.svg"></code>
+    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/github.svg"></code>
+    <code><img title="npm" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/npm.svg"></code>
   </p>
 <hr>
   <h2 align="center">🚀 Technologies I'll learn in 2022 🚀</h2>
