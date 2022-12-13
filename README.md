@@ -78,7 +78,7 @@
       </a>
     </div>
     <br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=aslslts&theme=radical&bg_color=20232a&hide_border=true" width="100%"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aslslts&bg_color=1a044f&color=53d5fd&line=d357fe&point=232323&area=true&hide_border=true"/>
   </p>
 
   <hr>
