@@ -67,13 +67,13 @@
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
         <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=aslslts&theme=radical&border=61dafb&hide_border=true" alt="zumrudu-anka" />
       </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <a href="https://github.com/aslslts/github-readme-stats" title="Go to Source">
         <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=aslslts&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
       </a>
     </div>
     <br><br><br><br><br><br><br><br><br><br><br>
     <div align=center>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/aslslts/github-readme-stats">
         <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslslts&layout=compact&show_icons=true&theme=radical" />
       </a>
     </div>
