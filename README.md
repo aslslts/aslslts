@@ -9,7 +9,7 @@
 <h5 align="center">
     <code>
        <a href="https://www.linkedin.com/in/asli-sulutas-843379178/" title="LinkedIn Profile">
-       <img width="20" src="https://raw.githubusercontent.com/aslslts/aslslts/4ee0e98a63e0985d0e4cc9bae2b9a98c4ace4351/linkedin.svg">
+       <img width="22" src="https://raw.githubusercontent.com/aslslts/aslslts/4ee0e98a63e0985d0e4cc9bae2b9a98c4ace4351/linkedin.svg">
        </a>
    </code>   
     <code>
