@@ -13,7 +13,8 @@
     <br>
     📚 I’m currently learning how to build web app 
     <br>
-    📫 LinkedIn Profile: <a href="www.linkedin.com/in/asli-sulutas-843379178">Asli Sulutas</a>
+    📫 LinkedIn Profile: <a href="https://www.linkedin.com/in/asli-sulutas-843379178
+)">Asli Sulutas</a>
     <br>
     📫 How to reach me: <a href="mailto: aslisulutas@gmail.com">aslisulutas@gmail.com</a>
     <br>
