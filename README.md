@@ -1,23 +1,10 @@
 
    <a align="center" href="https://github.com/khalby786/REHeader">
-      <img align="center" src="https://raw.githubusercontent.com/aslslts/aslslts/master/header.png" alt="Hello, I'm Asli">
+      <h1>Hi, I'm Asli👋</h1>
    </a>
-
    <hr>
 
 
-<h5 align="center">
-    <code>
-       <a href="https://www.linkedin.com/in/asli-sulutas-843379178/" title="LinkedIn Profile">
-       <img width="22" src="https://raw.githubusercontent.com/aslslts/aslslts/4ee0e98a63e0985d0e4cc9bae2b9a98c4ace4351/linkedin.svg">
-       </a>
-   </code>   
-    <code>
-       <a href="https://stackoverflow.com/users/12831798/asli-sulutas" title="Stack Overflow Profile">
-          <img width="22" src="https://raw.githubusercontent.com/aslslts/aslslts/4ee0e98a63e0985d0e4cc9bae2b9a98c4ace4351/stackoverflow.svg">
-       </a>
-   </code>
-</h5>
 
 <p align="center">
     I'm a software engineer based in Turkey!
@@ -26,9 +13,11 @@
     <br>
     📚 I’m currently learning how to build web app 
     <br>
-    💬 Ask me anything about from <a href="https://github.com/aslslts/aslslts/issues" title="Issues">Here</a>
+    📫 LinkedIn Profile: <a href="www.linkedin.com/in/asli-sulutas-843379178">Asli Sulutas</a>
     <br>
     📫 How to reach me: <a href="mailto: aslisulutas@gmail.com">aslisulutas@gmail.com</a>
+    <br>
+    💬 Ask me anything about from <a href="https://github.com/aslslts/aslslts/issues" title="Issues">Here</a>
  </p>
 
 
@@ -50,13 +39,13 @@
     <code><img title="npm" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/npm.svg"></code>
   </p>
 <hr>
-  <h2 align="center">🚀 Technologies I'll learn in 2022 🚀</h2>
+  <h2 align="center">🚀 Technologies I'll learn in 2023 🚀</h2>
   <div align="center">
       JavaScript, 
       React,
-      Vite
+      Nextjs
   </div>
-  <br>
+ 
 <hr>
 
 
@@ -66,22 +55,25 @@
     <div align=center>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
         <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=aslslts&theme=radical&border=61dafb&hide_border=true" alt="zumrudu-anka" />
-         <br><br><br><br><br>
+         <br><br>
       </a>
 <!--       <a href="https://github.com/aslslts/github-readme-stats" title="Go to Source">
         <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=aslslts&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
       </a>
     </div>
-    <br><br><br><br><br><br><br><br><br><br><br>
+    <br><br>
     <div align=center>
       <a href="https://github.com/aslslts/github-readme-stats">
         <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aslslts&layout=compact&show_icons=true&theme=radical" />
       </a> -->
     </div>
-    <br>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=aslslts&bg_color=1a044f&color=53d5fd&line=d357fe&point=232323&area=true&hide_border=true"/>
-  </p>
+<div align=center> 
+<img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=aslslts&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" alt="aslslts" />
+</div>
 
+  </p>
+    <br>
   <hr>
 
 ![](https://komarev.com/ghpvc/?username=aslslts&color=dc143c)
+
