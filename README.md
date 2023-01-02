@@ -55,7 +55,7 @@
   <p align=center>
     <div align=center>
       <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=aslslts&theme=radical&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+        <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=aslslts&theme=radical&border=61dafb&hide_border=true" alt="aslslts" />
          <br><br>
       </a>
 
