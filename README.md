@@ -60,7 +60,7 @@
       </a>
 
 <div align=center> 
-<img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?username=aslslts&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" alt="aslslts" />
+<img align="center" width=396 src="https://github-readme-stats.vercel.app/api/top-langs?user=aslslts&show_icons=true&locale=en&layout=compact&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" alt="aslslts" />
 </div>
 
   </p>
