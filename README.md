@@ -41,7 +41,8 @@
 <hr>
   <h2 align="center">🚀 Technologies I'll learn in 2023 🚀</h2>
   <div align="center">
-      JavaScript, 
+      JavaScript,
+      Advanced Js,
       Reactjs,
       Nextjs
   </div>
