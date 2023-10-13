@@ -7,7 +7,7 @@
 
 
 <p align="center">
-    I'm a software engineer based in Turkey!
+    I'm a software developer based in Turkey!
     <br>  
     💻 I love writing code and learn anythings about it
     <br>
