@@ -39,11 +39,11 @@
     <code><img title="npm" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/npm.svg"></code>
   </p>
 <hr>
-  <h2 align="center">🚀 Technologies I'll learn in 2023 🚀</h2>
+  <h2 align="center">🚀 Technologies I'll learn in 2024 🚀</h2>
   <div align="center">
       Advanced Js,
-      Reactjs,
-      Nextjs
+      React,
+      Angular
   </div>
  
 <hr>
