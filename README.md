@@ -41,6 +41,7 @@
 <hr>
   <h2 align="center">🚀 Technologies I'll learn in 2024 🚀</h2>
   <div align="center">
+      Swift
       Advanced Js,
       React,
       Angular
