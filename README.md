@@ -26,6 +26,7 @@
   <h2 align="center">🚀 Languages & Frameworks & Tools & Abilities 🚀</h2>
   <br>
   <p align="center">
+    <code><img title="Swift" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/swift.svg"></code>
     <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/javascript.svg"></code>
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/problemSolving.png"></code>
     <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/aslslts/aslslts/master/html5.svg"></code>
