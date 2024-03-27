@@ -43,8 +43,7 @@
   <div align="center">
       Swift,
       Advanced Js,
-      React,
-      Angular
+      Reactjs
   </div>
  
 <hr>
